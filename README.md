@@ -22,5 +22,5 @@ This repository contains a collection of notebooks demonstrating quantum machine
 ## Differentiable Compilation (JAX / Catalyst)
 
 * [Quantum Circuit State Learning](./notebooks/quantum_circuit_state_learning_jax.ipynb)
-* [JIT-Compilation with Catalyst](./notebooks/jit-compilation_catalyst.ipynb)
+* [JIT-Compilation with Catalyst](./notebooks/jit-compilation_with_catalyst.ipynb)
 
