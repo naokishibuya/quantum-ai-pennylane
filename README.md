@@ -8,7 +8,10 @@ This repository contains a collection of notebooks demonstrating quantum machine
 
 ## Variational Algorithms
 
+* [Universal Approximation in Quantum Circuits](./notebooks/universal_approximation_in_quantum_circuits.ipynb)
+* [VQE with Two Qubits](./notebooks/vqe_with_two_qubits.ipynb)
 * [VQE for H₂ Molecule](./notebooks/vqe_h2_molecule.ipynb)
+* [Group Thoery in Quantum Compilation](./notebooks/group_theory_in_quantum_compilation.ipynb)
 
 ## Combinatorial Optimization
 
